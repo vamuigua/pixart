@@ -4,3 +4,13 @@
     font-family: 'Raleway', sans-serif;
     color: crimson;
 }
+
+.title-bar-right a{
+    color: aliceblue;
+    border: 2px solid crimson;
+    border-radius: 35px;
+    font-size: 18px; 
+    font-family: 'Raleway', sans-serif;   
+    align-content: center;
+    padding: 3px 4px; 
+}
